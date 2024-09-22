@@ -1,0 +1,10 @@
+form textarea{
+  width:500px;
+  height:300px;
+}
+
+button{
+  width:150px;
+  height:80px;
+  font-size: 24px;
+}
